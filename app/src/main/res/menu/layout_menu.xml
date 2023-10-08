@@ -4,4 +4,6 @@
         android:title="@string/action_switch_layout"
         android:icon="@drawable/ic_linear_layout"
         app:showAsAction="always" />
+
+
 </menu>
